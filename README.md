@@ -6,3 +6,6 @@
 - [엔티티 매니저란?](JPA/JPA-Entity-Manager.md)
 - [ID 생성 전략](JPA/JPA-Id-Generate-Strategy.md)
 - [ddl-auto 옵션](JPA/JPA-ddl-auto-Option.md)
+
+### 프로그래밍
+- [equals와 hashCode는 왜 함께 재정의해야 하는가?](Programming/Programming-Why-override-with-equals-hashCode.md)
