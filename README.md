@@ -10,3 +10,6 @@
 ### 프로그래밍
 - [equals와 hashCode는 왜 함께 재정의해야 하는가?](Programming/Programming-Why-override-with-equals-hashCode.md)
 - [로그와 메트릭](Programming/Log-and-Metric.md)
+
+### CS (Computer Science)
+- [스레드, 프로세스, 코어의 수는 많을 수록 좋을까?](CS/Thread-Process-Core-Count.md)
