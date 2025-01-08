@@ -3,6 +3,9 @@
 ### CS (Computer Science)
 - [스레드, 프로세스, 코어의 수는 많을 수록 좋을까?](CS/Thread-Process-Core-Count.md)
 
+### DB (Database)
+- [데이터베이스 커넥션 풀을 사용하지 않는다면 발생하는 문제는?](Database/DB-Connection-Pool.md)
+
 ### JPA
 - [JPA, Hibernate, Spring Data JPA의 차이](JPA/JPA-Hibernate-Spring-Data-JPA.md)
 - [Spring Data JPA에서 새로운 Entity를 판단하는 방법](JPA/JPA-How-know-entity-is-new.md)
