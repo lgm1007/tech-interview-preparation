@@ -5,6 +5,7 @@
 
 ### DB (Database)
 - [데이터베이스 커넥션 풀을 사용하지 않는다면 발생하는 문제는?](Database/DB-Connection-Pool.md)
+- [트랜잭션의 격리 수준](Database/Transaction-Isolation-Level.md)
 
 ### JPA
 - [JPA, Hibernate, Spring Data JPA의 차이](JPA/JPA-Hibernate-Spring-Data-JPA.md)
