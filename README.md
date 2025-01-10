@@ -2,6 +2,7 @@
 ## 🗃️ 카테고리
 ### CS (Computer Science)
 - [스레드, 프로세스, 코어의 수는 많을 수록 좋을까?](CS/Thread-Process-Core-Count.md)
+- [쿠키 vs 로컬 스토리지 vs 세션 스토리지](CS/Cookie-LocalStorage-SessionStorage.md)
 
 ### DB (Database)
 - [데이터베이스 커넥션 풀을 사용하지 않는다면 발생하는 문제는?](Database/DB-Connection-Pool.md)
