@@ -15,6 +15,7 @@
 - [ddl-auto 옵션](JPA/JPA-ddl-auto-Option.md)
 
 ### 네트워크
+- [HTTP의 특징](Network/HTTP-features.md)
 - [TCP 3-way handshake](Network/TCP-3-way-handshake.md)
 
 ### 프로그래밍
