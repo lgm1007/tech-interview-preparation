@@ -1,6 +1,7 @@
 # 🧑‍💻 기술 면접 대비하기
 ## 🗃️ 카테고리
 ### CS (Computer Science)
+- [Timeout의 종류](CS/Timeout.md)
 - [스레드, 프로세스, 코어의 수는 많을 수록 좋을까?](CS/Thread-Process-Core-Count.md)
 - [쿠키 vs 로컬 스토리지 vs 세션 스토리지](CS/Cookie-LocalStorage-SessionStorage.md)
 
