@@ -19,6 +19,7 @@
 - [ddl-auto 옵션](JPA/JPA-ddl-auto-Option.md)
 
 ### 네트워크
+- [Forward Proxy & Reverse Proxy](Network/Forward-proxy-Reverse-proxy.md)
 - [HTTP의 특징](Network/HTTP-features.md)
 - [TCP 3-way handshake](Network/TCP-3-way-handshake.md)
 
