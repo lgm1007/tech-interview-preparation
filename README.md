@@ -12,6 +12,9 @@
 - [데이터베이스 커넥션 풀을 사용하지 않는다면 발생하는 문제는?](Database/DB-Connection-Pool.md)
 - [트랜잭션의 격리 수준](Database/Transaction-Isolation-Level.md)
 
+### Frontend
+- [서버 사이드 렌더링과 클라이언트 사이드 렌더링](Frontend/Server-side-rendering-Client-side-rendering.md)
+
 ### JPA
 - [JPA, Hibernate, Spring Data JPA의 차이](JPA/JPA-Hibernate-Spring-Data-JPA.md)
 - [Spring Data JPA에서 새로운 Entity를 판단하는 방법](JPA/JPA-How-know-entity-is-new.md)
