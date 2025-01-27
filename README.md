@@ -29,4 +29,5 @@
 
 ### 프로그래밍
 - [equals와 hashCode는 왜 함께 재정의해야 하는가?](Programming/Programming-Why-override-with-equals-hashCode.md)
+- [Record를 DTO로 사용하는 이유](Programming/Record-use-dto.md)
 - [로그와 메트릭](Programming/Log-and-Metric.md)
