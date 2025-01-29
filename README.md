@@ -25,6 +25,7 @@
 
 ### 네트워크
 - [포워드 프록시 & 리버스 프록시](Network/Forward-proxy-Reverse-proxy.md)
+- [CORS](Network/CORS.md)
 - [HTTP의 특징](Network/HTTP-features.md)
 - [TCP 3-way handshake](Network/TCP-3-way-handshake.md)
 
