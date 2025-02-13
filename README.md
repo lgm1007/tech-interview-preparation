@@ -9,6 +9,7 @@
 - [스레드, 프로세스, 코어의 수는 많을 수록 좋을까?](CS/Thread-Process-Core-Count.md)
 - [스레드의 컨텍스트 스위치가 프로세스보다 더 빠른 이유?](CS/Why-Thread-Context-Switch-Faster-Than-Process-One.md)
 - [쿠키 vs 로컬 스토리지 vs 세션 스토리지](CS/Cookie-LocalStorage-SessionStorage.md)
+- [캐시 스탬피드 문제](CS/Cache-Stampede.md)
 
 ### DB (Database)
 - [ACID](Database/ACID.md)
