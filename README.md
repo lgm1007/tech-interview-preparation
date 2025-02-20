@@ -6,6 +6,7 @@
 - [다중 서버 환경에서 세션 기반 인증 방식을 사용하는 경우 발생할 수 있는 문제점](CS/Multi-server-Session-based-authentication.md)
 - [동시성과 병렬성](CS/Concurrency-and-Parallelism.md)
 - [로드 밸런싱](CS/Load-Balancing.md)
+- [시스템 간 비동기 연동 방식](CS/Way-to-async.md)
 - [스레드, 프로세스, 코어의 수는 많을 수록 좋을까?](CS/Thread-Process-Core-Count.md)
 - [스레드의 컨텍스트 스위치가 프로세스보다 더 빠른 이유?](CS/Why-Thread-Context-Switch-Faster-Than-Process-One.md)
 - [쿠키 vs 로컬 스토리지 vs 세션 스토리지](CS/Cookie-LocalStorage-SessionStorage.md)
