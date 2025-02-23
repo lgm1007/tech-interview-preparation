@@ -17,6 +17,7 @@
 - [DB Replication](Database/DB-Replication.md)
 - [DB 시스템에서 동시성을 제어하는 방법](Database/DB-System-Concurrency-Control.md)
 - [Redis 분산락](Database/Redis-Distribution-lock.md)
+- [OLTP와 OLAP](Database/OLTP-vs-OLAP.md)
 - [갭락과 넥스트키 락](Database/Gap-Lock-Next-Key-Lock.md)
 - [데이터베이스 커넥션 풀을 사용하지 않는다면 발생하는 문제는?](Database/DB-Connection-Pool.md)
 - [트랜잭션의 격리 수준](Database/Transaction-Isolation-Level.md)
