@@ -12,6 +12,7 @@
 - [쿠키 vs 로컬 스토리지 vs 세션 스토리지](CS/Cookie-LocalStorage-SessionStorage.md)
 - [캐싱 전략](CS/Caching-strategy.md)
 - [캐시 스탬피드 문제](CS/Cache-Stampede.md)
+- [해시 충돌 문제](CS/Hash-Collision.md)
 
 ### DB (Database)
 - [ACID](Database/ACID.md)
